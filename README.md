@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VitorGRolim
-- 🌱 I’m currently learning  Java/Python
+- 🌱 I’m currently learning C# | .NET | ASP.NET | Entity Framework | LINQ | Lambda | MySQL | Git | Coleções
 - 💞️ I’m looking to collaborate on Desenvolvimento de Software
-- 📫 How to reach me https://www.linkedin.com/in/vitor-gabriel-souza-rolim-768a57202/
+- 📫 How to reach me https://www.linkedin.com/in/vitor-gabriel-de-souza-rolim-768a57202
 
 
 <!---
